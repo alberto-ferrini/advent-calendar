@@ -42,4 +42,4 @@ for (let x = 0; x < 1000; x++) {
   }
 }
 
-checkRightAnswer(totalBrightness, 569999);
+checkRightAnswer(totalBrightness, 17836115);
